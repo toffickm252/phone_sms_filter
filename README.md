@@ -10,9 +10,9 @@ The main is to:
 * use TfidVectorizer
 
 The project is divided into many stages
-*Problem Identification and expected outcome
-*Feature Engineering
-*Exploratory Data Analysis
-*Vectorization
-*Building the model pipelining feature 
-*Model Evaluation
+* Problem Identification and expected outcome
+* Feature Engineering
+* Exploratory Data Analysis
+* Vectorization
+* Building the model pipelining feature 
+* Model Evaluation
